@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeTestProjectRSGit
+  gitServerName: test
+  gitUrl: https://github.com/TestTheTester/EdgeTestProjectRSGit
+  gitUsername: TestTheTester
+  gitToken: edge.scaffolding.EdgeTestProjectRSGit.test.gitToken
+  gitBranch: master
